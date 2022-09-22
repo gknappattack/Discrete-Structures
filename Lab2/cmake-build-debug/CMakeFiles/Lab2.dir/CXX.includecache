@@ -1,0 +1,116 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/DatalogProgram.cpp
+DatalogProgram.h
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/DatalogProgram.h
+
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/DatalogProgram.h
+Parameter.h
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Parameter.h
+Predicate.h
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Predicate.h
+Rule.h
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Rule.h
+vector
+-
+set
+-
+
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Parameter.cpp
+Parameter.h
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Parameter.h
+
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Parameter.h
+string
+-
+iostream
+-
+
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Parser.cpp
+Parser.h
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Parser.h
+
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Parser.h
+Token.h
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Token.h
+DatalogProgram.h
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/DatalogProgram.h
+vector
+-
+
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Predicate.cpp
+Predicate.h
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Predicate.h
+
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Predicate.h
+Parameter.h
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Parameter.h
+Token.h
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Token.h
+vector
+-
+iostream
+-
+sstream
+-
+cctype
+-
+
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Rule.cpp
+Rule.h
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Rule.h
+
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Rule.h
+Predicate.h
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Predicate.h
+iostream
+-
+vector
+-
+sstream
+-
+
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Scanner.cpp
+Scanner.h
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Scanner.h
+
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Scanner.h
+Token.h
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Token.h
+string
+-
+iostream
+-
+fstream
+-
+vector
+-
+cctype
+-
+
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Token.cpp
+Token.h
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Token.h
+
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Token.h
+string
+-
+iostream
+-
+sstream
+-
+
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/main.cpp
+iostream
+-
+Scanner.h
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Scanner.h
+Parser.h
+/Users/gregoryknapp/CLionProjects/CS 236/Lab2/Parser.h
+

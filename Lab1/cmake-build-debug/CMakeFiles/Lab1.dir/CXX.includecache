@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gregoryknapp/CLionProjects/CS 236/Lab1/Token.h
+string
+-
+iostream
+-
+sstream
+-
+
+/Users/gregoryknapp/CLionProjects/CS 236/Lab1/main.cpp
+iostream
+-
+Token.h
+/Users/gregoryknapp/CLionProjects/CS 236/Lab1/Token.h
+
